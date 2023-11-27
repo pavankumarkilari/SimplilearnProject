@@ -1,0 +1,7 @@
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2StudentData\ConAppStudent\ConAppStudent\bin\Debug\ConAppStudent.exe.config
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2StudentData\ConAppStudent\ConAppStudent\bin\Debug\ConAppStudent.exe
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2StudentData\ConAppStudent\ConAppStudent\bin\Debug\ConAppStudent.pdb
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2StudentData\ConAppStudent\ConAppStudent\obj\Debug\ConAppStudent.csproj.AssemblyReference.cache
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2StudentData\ConAppStudent\ConAppStudent\obj\Debug\ConAppStudent.csproj.CoreCompileInputs.cache
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2StudentData\ConAppStudent\ConAppStudent\obj\Debug\ConAppStudent.exe
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2StudentData\ConAppStudent\ConAppStudent\obj\Debug\ConAppStudent.pdb
