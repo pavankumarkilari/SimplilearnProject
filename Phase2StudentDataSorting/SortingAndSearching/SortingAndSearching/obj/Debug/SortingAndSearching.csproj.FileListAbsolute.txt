@@ -1,0 +1,7 @@
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2StudentDataSorting\SortingAndSearching\SortingAndSearching\bin\Debug\SortingAndSearching.exe.config
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2StudentDataSorting\SortingAndSearching\SortingAndSearching\bin\Debug\SortingAndSearching.exe
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2StudentDataSorting\SortingAndSearching\SortingAndSearching\bin\Debug\SortingAndSearching.pdb
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2StudentDataSorting\SortingAndSearching\SortingAndSearching\obj\Debug\SortingAndSearching.csproj.AssemblyReference.cache
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2StudentDataSorting\SortingAndSearching\SortingAndSearching\obj\Debug\SortingAndSearching.csproj.CoreCompileInputs.cache
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2StudentDataSorting\SortingAndSearching\SortingAndSearching\obj\Debug\SortingAndSearching.exe
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2StudentDataSorting\SortingAndSearching\SortingAndSearching\obj\Debug\SortingAndSearching.pdb
