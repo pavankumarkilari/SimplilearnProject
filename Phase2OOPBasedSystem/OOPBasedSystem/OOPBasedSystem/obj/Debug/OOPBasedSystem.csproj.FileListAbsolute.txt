@@ -1,0 +1,7 @@
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2OOPBasedSystem\OOPBasedSystem\OOPBasedSystem\bin\Debug\OOPBasedSystem.exe.config
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2OOPBasedSystem\OOPBasedSystem\OOPBasedSystem\bin\Debug\OOPBasedSystem.exe
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2OOPBasedSystem\OOPBasedSystem\OOPBasedSystem\bin\Debug\OOPBasedSystem.pdb
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2OOPBasedSystem\OOPBasedSystem\OOPBasedSystem\obj\Debug\OOPBasedSystem.csproj.AssemblyReference.cache
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2OOPBasedSystem\OOPBasedSystem\OOPBasedSystem\obj\Debug\OOPBasedSystem.csproj.CoreCompileInputs.cache
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2OOPBasedSystem\OOPBasedSystem\OOPBasedSystem\obj\Debug\OOPBasedSystem.exe
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2OOPBasedSystem\OOPBasedSystem\OOPBasedSystem\obj\Debug\OOPBasedSystem.pdb
