@@ -1,0 +1,7 @@
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2PhaseEndProject\PlayerAndRequirements\PlayerAndRequirements\obj\Debug\PlayerAndRequirements.csproj.AssemblyReference.cache
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2PhaseEndProject\PlayerAndRequirements\PlayerAndRequirements\obj\Debug\PlayerAndRequirements.csproj.CoreCompileInputs.cache
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2PhaseEndProject\PlayerAndRequirements\PlayerAndRequirements\bin\Debug\PlayerAndRequirements.exe.config
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2PhaseEndProject\PlayerAndRequirements\PlayerAndRequirements\bin\Debug\PlayerAndRequirements.exe
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2PhaseEndProject\PlayerAndRequirements\PlayerAndRequirements\bin\Debug\PlayerAndRequirements.pdb
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2PhaseEndProject\PlayerAndRequirements\PlayerAndRequirements\obj\Debug\PlayerAndRequirements.exe
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase2PhaseEndProject\PlayerAndRequirements\PlayerAndRequirements\obj\Debug\PlayerAndRequirements.pdb

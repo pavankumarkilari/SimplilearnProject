@@ -1,0 +1,13 @@
+﻿using System.Collections.Generic;
+
+namespace PlayerAndRequirements
+{
+    public interface ITeam
+    {
+        void Add(Player player);
+        void Remove(int playerId);
+        Player GetPlayerById(int playerId);
+        Player GetPlayerByName(string playerName);
+        List<Player> GetAllPlayers();
+    }
+}
