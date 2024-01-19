@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q0CopbXn8w4WSpTqpK3vXESjy2r0ilORW+SOfBAPGOy2FxVW6V0N/zhSAuY5MKbXeYCvONqsCBpVO7Oex4tO0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kpava\\Desktop\\Mphasis\\Simplilearn_Projects\\Phase4DockerProject\\BankLoginDocker\\BankLoginDocker\\BankLoginDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kpava\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
