@@ -1,0 +1,21 @@
+﻿@page
+@model Views_Login_Dashboard
+
+
+<h1>Welcome to the Dashboard!</h1>
+<div>
+    <h3>Account Activities</h3>
+    <button onclick="redirectToAccountActivity('viewBalance')">View Balance</button>
+    <button onclick="redirectToAccountActivity('withdraw')">Withdraw Money</button>
+    <button onclick="redirectToAccountActivity('deposit')">Deposit Money</button>
+</div>
+<div style="margin-top: 20px;">
+    <form method="post" asp-action="Login">
+        <button type="submit">Logout</button>
+    </form>
+</div>
+<script>
+    function redirectToAccountActivity(action) {
+        alert('Redirecting to ' + action);
+    }
+</script>

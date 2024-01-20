@@ -1,0 +1,6 @@
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase4TestUIPrototype\UIPrototype\UIPrototypeLib\bin\Debug\UIPrototypeLib.dll
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase4TestUIPrototype\UIPrototype\UIPrototypeLib\bin\Debug\UIPrototypeLib.pdb
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase4TestUIPrototype\UIPrototype\UIPrototypeLib\obj\Debug\UIPrototypeLib.csproj.AssemblyReference.cache
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase4TestUIPrototype\UIPrototype\UIPrototypeLib\obj\Debug\UIPrototypeLib.csproj.CoreCompileInputs.cache
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase4TestUIPrototype\UIPrototype\UIPrototypeLib\obj\Debug\UIPrototypeLib.dll
+C:\Users\kpava\Desktop\Mphasis\Simplilearn_Projects\Phase4TestUIPrototype\UIPrototype\UIPrototypeLib\obj\Debug\UIPrototypeLib.pdb

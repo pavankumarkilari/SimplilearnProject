@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c1Cu49PvPUU6cbx+Pf6BMZ+zWwIhEne/m+lKFTLPsoDInXkPraEjA7ekraUvz3k7fbMcwAp5ydLuLcbG8acn0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kpava\\Desktop\\Mphasis\\Simplilearn_Projects\\Phase4TestUIPrototype\\UIPrototype\\UIPrototype\\UIPrototype.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kpava\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\kpava\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
